@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Saad Khairullah</h1>
 <h3 align="center">A passionate Full-Stack developer specializing in mainly backend</h3>
 
-- 🌱 I’m currently learning **MATLAB,embedded systems, and AI development**
+- 🌱 I’m currently learning **MATLAB, embedded systems, and AI development**
 
 - 👯 I’m looking to collaborate on **Startup or enterprise projects**
 
 - 🤝 I’m looking for help with **growing my connections and finding an internship**
 
-- 👨‍💻 My most recently deployed project [txuml.vercel.app](https://txuml-saad-khairullahs-projects.vercel.app/)
-. To find it on github: [TXUML](https://github.com/saadkhairullah/TXUML)
+- 👨‍💻 My most recently deployed project **[txuml.vercel.app](https://txuml-saad-khairullahs-projects.vercel.app/).**
+To find it on github: **[TXUML](https://github.com/saadkhairullah/TXUML)**
 
 - 💬 Ask me about **Full stack development and Data structures/Algorithms**
 
