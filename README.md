@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saad Khairullah</h1>
-<h3 align="center">A passionate Full-Stack developer specializing in mainly backend</h3>
+<h3 align="center">A passionate Full-Stack developer specializing in backend development</h3>
 
 - 🌱 I’m currently learning **MATLAB, embedded systems, and AI development**
 
